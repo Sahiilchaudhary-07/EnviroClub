@@ -35,7 +35,7 @@ const TEAM: Member[] = [
     name: 'Sahil',
     role: 'Tech Head',
     note: '',
-    photo: 'sahil.jpeg',
+    photo: 'Sahil.jpeg',
   },
   {
     name: 'Lakshya Jain',
